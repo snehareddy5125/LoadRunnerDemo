@@ -1,0 +1,13 @@
+[t21]
+FileName1=t21.json
+URL1=http://52.73.154.245/reportExpense
+Total=2
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=t21_RequestBody.txt
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_21.xml
+FileName2=t21_notification.651771e1.html
+URL2=http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/media/notification.651771e1.woff
+[ProtocolInfo]
+ProtocolId=QTWeb

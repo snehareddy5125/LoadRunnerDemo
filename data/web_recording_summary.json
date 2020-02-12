@@ -1,0 +1,502 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accesstoken",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-method",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-headers",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff2"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/font-woff"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 35,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Feb-11-2020",
+    "RecordingDuration": 125625,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1581413766,
+    "RecordingType": "Proxy",
+    "TotalBytesReceived": 2702474,
+    "TotalBytesSent": 20560,
+    "TotalRequests": 35,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.175.42",
+          "IncludeInScript": true,
+          "Name": "fonts.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 2231,
+              "HttpStatus": 200,
+              "Size": 411,
+              "URL": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 2191,
+              "HttpStatus": 200,
+              "Size": 411,
+              "URL": "https://fonts.googleapis.com/css?family=Muli&display=swap"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "fontawesome.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "151.139.128.10",
+          "IncludeInScript": true,
+          "Name": "kit.fontawesome.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 2236,
+              "HttpStatus": 200,
+              "Size": 2124,
+              "URL": "https://kit.fontawesome.com/98753dd370.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 0,
+              "EventId": 2186,
+              "HttpStatus": 200,
+              "Size": 2124,
+              "URL": "https://kit.fontawesome.com/98753dd370.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "151.139.128.10",
+          "IncludeInScript": true,
+          "Name": "kit-free.fontawesome.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 0,
+              "EventId": 2245,
+              "HttpStatus": 200,
+              "Size": 76152,
+              "URL": "https://kit-free.fontawesome.com/releases/latest/webfonts/free-fa-solid-900.woff2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 0,
+              "EventId": 2206,
+              "HttpStatus": 200,
+              "Size": 13221,
+              "URL": "https://kit-free.fontawesome.com/releases/latest/css/free.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 0,
+              "EventId": 2201,
+              "HttpStatus": 200,
+              "Size": 4326,
+              "URL": "https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 2196,
+              "HttpStatus": 200,
+              "Size": 802,
+              "URL": "https://kit-free.fontawesome.com/releases/latest/css/free-v4-font-face.min.css"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "amazonaws.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.219.66.27",
+          "IncludeInScript": true,
+          "Name": "ilp-et.s3-website.ap-south-1.amazonaws.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/font-woff",
+              "DownloadTime": 16,
+              "EventId": 2305,
+              "HttpStatus": 200,
+              "Size": 1984,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/media/notification.651771e1.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 0,
+              "EventId": 2240,
+              "HttpStatus": 200,
+              "Size": 24229,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/media/home.efcbcdcc.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 0,
+              "EventId": 2226,
+              "HttpStatus": 200,
+              "Size": 144489,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/js/main.39647171.chunk.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 2222,
+              "HttpStatus": 200,
+              "Size": 35872,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/css/2.e970bbb9.chunk.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 2218,
+              "HttpStatus": 200,
+              "Size": 1760912,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/js/2.10613d27.chunk.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 2214,
+              "HttpStatus": 200,
+              "Size": 216336,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/css/main.194323ea.chunk.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2210,
+              "HttpStatus": 200,
+              "Size": 2470,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 0,
+              "EventId": 2181,
+              "HttpStatus": 200,
+              "Size": 35872,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/css/2.e970bbb9.chunk.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 15,
+              "EventId": 2177,
+              "HttpStatus": 200,
+              "Size": 216336,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/css/main.194323ea.chunk.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 0,
+              "EventId": 2173,
+              "HttpStatus": 200,
+              "Size": 144489,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/static/js/main.39647171.chunk.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2169,
+              "HttpStatus": 200,
+              "Size": 2470,
+              "URL": "http://ilp-et.s3-website.ap-south-1.amazonaws.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "52.73.154.245",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.73.154.245",
+          "IncludeInScript": true,
+          "Name": "52.73.154.245",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2301,
+              "HttpStatus": 201,
+              "Size": 674,
+              "URL": "http://52.73.154.245/reportExpense"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 2298,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/reportExpense"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2294,
+              "HttpStatus": 200,
+              "Size": 6305,
+              "URL": "http://52.73.154.245/getExpensesByProject/2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2290,
+              "HttpStatus": 200,
+              "Size": 192,
+              "URL": "http://52.73.154.245/getExpenseHeadByProject/2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2286,
+              "HttpStatus": 200,
+              "Size": 3031,
+              "URL": "http://52.73.154.245/getUsers"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2283,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/getExpensesByProject/2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2280,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/getExpenseHeadByProject/2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 2277,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/getUsers"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2273,
+              "HttpStatus": 200,
+              "Size": 2961,
+              "URL": "http://52.73.154.245/getDashboardDataByProject"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2269,
+              "HttpStatus": 200,
+              "Size": 3031,
+              "URL": "http://52.73.154.245/getUsers"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2266,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/getUsers"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 2263,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/getDashboardDataByProject"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2259,
+              "HttpStatus": 200,
+              "Size": 157,
+              "URL": "http://52.73.154.245/getProjectsByUser"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 2256,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/getProjectsByUser"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2252,
+              "HttpStatus": 200,
+              "Size": 1093,
+              "URL": "http://52.73.154.245/login"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2249,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://52.73.154.245/login"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 5
+}

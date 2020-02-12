@@ -1,0 +1,16 @@
+OPTIONS http://52.73.154.245/login HTTP/1.1
+Origin: http://ilp-et.s3-website.ap-south-1.amazonaws.com
+Referer: http://ilp-et.s3-website.ap-south-1.amazonaws.com/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
+Cache-Control: max-age=0
+Access-Control-Request-Headers: content-type
+Access-Control-Request-Method: POST
+Accept: */*
+Accept-Language: en-IN
+Accept-Encoding: gzip, deflate
+DNT: 1
+Pragma: no-cache
+Host: 52.73.154.245
+Content-Length: 0
+Connection: Keep-Alive
+

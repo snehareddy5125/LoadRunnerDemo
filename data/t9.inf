@@ -1,0 +1,11 @@
+[t9]
+FileName1=t9_getProjectsByUser.json
+URL1=http://52.73.154.245/getProjectsByUser
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_9.xml
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Tue, 11 Feb 2020 09:36:43 GMT
+Content-Type: application/json
+Content-Length: 157
+Connection: keep-alive
+Access-Control-Allow-Origin: http://ilp-et.s3-website.ap-south-1.amazonaws.com
+Vary: Origin
+

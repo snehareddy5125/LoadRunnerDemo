@@ -1,0 +1,12 @@
+GET http://52.73.154.245/getUsers HTTP/1.1
+Origin: http://ilp-et.s3-website.ap-south-1.amazonaws.com
+Referer: http://ilp-et.s3-website.ap-south-1.amazonaws.com/dashboard
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
+Cache-Control: max-age=0
+Accept: application/json, text/plain, */*
+Accept-Language: en-IN
+accessToken: eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4MTQxMzgwMywiZXhwIjoxNTg0MDA1ODAzfQ.eyJ1c2VyTmFtZSI6ImFkbWluIiwicm9sZUlkIjoxfQ.A92htL6aE6egIpcxwoXpbOQa8a7nUgEghWBfJEw0EkIVZwPhtx-e2I9xWRe02eUnE2LO1KcuQdRZUj_y4Uuyrw
+Accept-Encoding: gzip, deflate
+DNT: 1
+Host: 52.73.154.245
+

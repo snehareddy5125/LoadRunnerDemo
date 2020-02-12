@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+x-amz-id-2: 97KIwqOOZ54YypTrh1Aqar3XHf7IOIfoMe4iDeyW8+/k/VfC1sjFq7lnQyfv2GTq/JEnvFmSp3Q=
+x-amz-request-id: 654FDB2731B9D76B
+Date: Tue, 11 Feb 2020 09:32:19 GMT
+Last-Modified: Mon, 10 Feb 2020 12:08:08 GMT
+ETag: "ea7c31a32752a4e8492c729232c6bfe9"
+Content-Type: text/html
+Content-Length: 2470
+Server: AmazonS3
+

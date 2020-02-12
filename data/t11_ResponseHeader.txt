@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Tue, 11 Feb 2020 09:36:44 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Allow: OPTIONS, HEAD, GET
+Access-Control-Allow-Origin: http://ilp-et.s3-website.ap-south-1.amazonaws.com
+Access-Control-Allow-Headers: accesstoken
+Access-Control-Allow-Methods: DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT
+Vary: Origin
+

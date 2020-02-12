@@ -1,0 +1,12 @@
+GET http://52.73.154.245/getExpenseHeadByProject/2 HTTP/1.1
+Origin: http://ilp-et.s3-website.ap-south-1.amazonaws.com
+Referer: http://ilp-et.s3-website.ap-south-1.amazonaws.com/cashExpense
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
+Cache-Control: max-age=0
+Accept: application/json, text/plain, */*
+Accept-Language: en-IN
+accessToken: eyJhbGciOiJIUzUxMiIsImlhdCI6MTU4MTQxMzgwNCwiZXhwIjoxNTg0MDA1ODA0fQ.eyJ1c2VyTmFtZSI6ImFkbWluIiwicm9sZUlkIjoxfQ.g-bXqFgV0b54Vk5YJxdzlRPjoDHlAR-5IctgS4bShbL-6xhDH0oPhNfPeWK9kU156AhzvfHIv0tvk3AquNy4LA
+Accept-Encoding: gzip, deflate
+DNT: 1
+Host: 52.73.154.245
+

@@ -1,0 +1,10 @@
+GET http://ilp-et.s3-website.ap-south-1.amazonaws.com/ HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-IN
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
+Accept-Encoding: gzip, deflate
+DNT: 1
+Host: ilp-et.s3-website.ap-south-1.amazonaws.com
+Connection: Keep-Alive
+
